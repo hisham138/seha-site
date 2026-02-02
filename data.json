@@ -1329,7 +1329,22 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-01-04",
       "leaveType": "GSL"
+    },
+    {
+    "leaveCode": "25120995009",
+      "serviceCode": "25120995009",
+      "nationalId": "1142200300",
+      "idNumber": "1142200300",
+      "name": " الحارث عبدالله احمد الحارثي",
+      "admissionDate": "2026-01-04",
+      "dischargeDate": "2026-01-04",
+      "leaveDuration": "1",
+      "doctorName": " محمد عيد محفوظ   ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-01-04",
+      "leaveType": "GSL"
     }
+
 
   ]
 }
