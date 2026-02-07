@@ -1343,7 +1343,21 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-01-04",
       "leaveType": "GSL"
-    }
+    },
+      {
+      "leaveCode": "02958523268",
+      "serviceCode": "02958523268",
+      "nationalId": "1134146735",
+      "idNumber": "1134146735",
+      "name": "شهد هادي حدادي",
+      "admissionDate": "2026-02-05",
+      "dischargeDate": "2026-02-05",
+      "leaveDuration": "1",
+      "doctorName": "  نبيل قاسم ثابت مثني  ",
+      "jobTitle": "طب عام",
+      "issueDate": "2026-02-05",
+      "leaveType": "GSL"
+      }
 
 
   ]
