@@ -1387,11 +1387,11 @@
       "leaveType": "GSL"
       },
        {
-      "leaveCode": "02958525698",
-      "serviceCode": "02958521598",
-      "nationalId": "1124621747",
-      "idNumber": "1124621747",
-      "name": "نوف سعد عبدالله المساعد",
+      "leaveCode": "00958525698",
+      "serviceCode": "00958521598",
+      "nationalId": "1124621007",
+      "idNumber": "1124621007",
+      "name": "هلا هلال هل ",
       "admissionDate": "2026-02-08",
       "dischargeDate": "2026-02-08",
       "leaveDuration": "1",
@@ -1399,8 +1399,21 @@
       "jobTitle": "طب عام",
       "issueDate": "2026-02-08",
       "leaveType": "GSL"
-      }
-
+      },
+{
+      "leaveCode": "44396851962",
+      "serviceCode": "44396851962",
+      "nationalId": "1098180704",
+      "idNumber": "1098180704",
+      "name": "اشواق عبدالله بن حمود الحربي",
+      "admissionDate": "2025-10-21",
+      "dischargeDate": "2025-10-21",
+      "leaveDuration": "1",
+      "doctorName": "طارق جمال المحمدي ",
+      "jobTitle": "أخصائي الباطنية",
+      "issueDate": "2025-10-21",
+      "leaveType": "GSL"
+}
 
   ]
 }
