@@ -1426,7 +1426,7 @@
   "doctorName": "خالد عبدالله بخش ",
   "jobTitle": "طبيب عام",
   "issueDate": "2026-02-15",
-  "leaveType": "PSL"
+  "leaveType": "GSL"
 },
   {
     "leaveCode": "25121995417",
@@ -1454,7 +1454,21 @@
   "doctorName": " عصام النحراوي ",
   "jobTitle": " استشاري باطنية",
   "issueDate": "2026-02-24",
-  "leaveType": "GSL"
+  "leaveType": "PSL"
+    },
+    {
+    "leaveCode": "25121995677",
+  "serviceCode": "25121995677",
+  "nationalId": "1128193651",
+  "idNumber": "1128193651",
+  "name": "ياسر ماهر عبدالرحيم محمدرجب",
+  "admissionDate": "2026-02-19",
+  "dischargeDate": "2026-02-19",
+  "leaveDuration": "1",
+  "doctorName": "لمياء علي",
+  "jobTitle": " أخصائية الطب الباطني",
+  "issueDate": "2026-02-19",
+  "leaveType": "PSL"
     }
   ]
 }
