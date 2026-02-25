@@ -1483,6 +1483,20 @@
   "jobTitle": "أخصائي باطنية",
   "issueDate": "2026-02-25",
   "leaveType": "GSL"
+   },
+   {
+    "leaveCode": "25121977417",
+  "serviceCode": "25121977417",
+  "nationalId": "1140148634",
+  "idNumber": "1140148634",
+  "name": "سحر خالد",
+  "admissionDate": "2026-02-25",
+  "dischargeDate": "2026-02-25",
+  "leaveDuration": "1",
+  "doctorName": "أحمد سليمان الجباري ",
+  "jobTitle": " استشاري باطنية",
+  "issueDate": "2026-02-25",
+  "leaveType": "GSL"
    }
   ]
 }
