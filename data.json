@@ -1525,6 +1525,21 @@
   "jobTitle": "  استشاري باطنية",
   "issueDate": "2026-02-23",
   "leaveType": "GSL"
-    }
+    },
+    {
+    "leaveCode": "25231965677",
+  "serviceCode": "25231965677",
+  "nationalId": "1129246300",
+  "idNumber": "1129246300",
+  "name": "صالح احمد بابصيل ",
+  "admissionDate": "2026-02-24",
+  "dischargeDate": "2026-02-24",
+  "leaveDuration": "1",
+  "doctorName": "محمد أبو بكر",
+  "jobTitle": "أخصائي باطنية",
+  "issueDate": "2026-02-24",
+  "leaveType": "PSL"
+   }
+  {
   ]
 }
