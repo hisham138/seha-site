@@ -1567,6 +1567,19 @@
   "jobTitle": "أخصائي باطنية",
   "issueDate": "2026-03-03",
   "leaveType": "GSL"
-   }
+   },
+    {
+    "leaveCode": "25231775865",
+  "serviceCode": "25231775865",
+  "nationalId": "1140027374",
+  "idNumber": "1140027374",
+  "name": "محمد ماجد الرويلي ",
+  "admissionDate": "2026-02-28",
+  "dischargeDate": "2026-02-28",
+  "leaveDuration": "1",
+  "doctorName": "رحاب مختار",
+  "jobTitle": " طب عام",
+  "issueDate": "2026-02-28",
+  "leaveType": "PSL"
   ]
 }
