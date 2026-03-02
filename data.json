@@ -1609,6 +1609,48 @@
   "jobTitle": "أخصائي أول",
   "issueDate": "2026-02-28",
   "leaveType": "PSL"
+    },
+    {
+    "leaveCode": "25232227875",
+  "serviceCode": "25232227875",
+  "nationalId": "1122530106",
+  "idNumber": "1122530106",
+  "name": "لينا منصور الاسفلين  ",
+  "admissionDate": "2026-02-23",
+  "dischargeDate": "2026-02-23",
+  "leaveDuration": "1",
+  "doctorName": "زياد البشيري",
+  "jobTitle": "أخصائي باطنية",
+  "issueDate": "2026-02-23",
+  "leaveType": "GSL"
+    },
+   {
+    "leaveCode": "25232227911",
+  "serviceCode": "25232227911",
+  "nationalId": "1122530106",
+  "idNumber": "1122530106",
+  "name": "لينا منصور الاسفلين  ",
+  "admissionDate": "2026-03-02",
+  "dischargeDate": "2026-03-02",
+  "leaveDuration": "1",
+  "doctorName": "زياد البشيري",
+  "jobTitle": "أخصائي باطنية",
+  "issueDate": "2026-03-02",
+  "leaveType": "GSL"
+    },
+ {
+    "leaveCode": "25232227995",
+  "serviceCode": "25232227995",
+  "nationalId": "1122530106",
+  "idNumber": "1122530106",
+  "name": "لينا منصور الاسفلين  ",
+  "admissionDate": "2026-03-03",
+  "dischargeDate": "2026-03-03",
+  "leaveDuration": "1",
+  "doctorName": "زياد البشيري",
+  "jobTitle": "أخصائي باطنية",
+  "issueDate": "2026-03-03",
+  "leaveType": "GSL"
     }
   ]
 }
