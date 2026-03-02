@@ -1693,6 +1693,20 @@
   "jobTitle": " استشاري باطنية",
   "issueDate": "2026-03-04",
   "leaveType": "PSL"
-  }
+  },
+    {
+    "leaveCode": "25121995426",
+  "serviceCode": "25121995426",
+  "nationalId": "1157779719",
+  "idNumber": "1157779719",
+  "name": "ريناد يحي الاحمري ",
+  "admissionDate": "2026-03-02",
+  "dischargeDate": "2026-03-02",
+  "leaveDuration": "1",
+  "doctorName": "عبدالرحمن الشهري ",
+  "jobTitle": " استشاري باطنية",
+  "issueDate": "2026-03-02",
+  "leaveType": "PSL"
+    }
   ]
 }
