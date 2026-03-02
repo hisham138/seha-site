@@ -1595,6 +1595,20 @@
   "jobTitle": "استشاري الطب الباطني",
   "issueDate": "2026-02-26",
   "leaveType": "GSL"
+    },
+    {
+    "leaveCode": "25231727875",
+  "serviceCode": "25231727875",
+  "nationalId": "1139712051",
+  "idNumber": "1139712051",
+  "name": "جواد يوسف عبدالرحمن الحميدي  ",
+  "admissionDate": "2026-02-28",
+  "dischargeDate": "2026-02-28",
+  "leaveDuration": "1",
+  "doctorName": "محمد بلال",
+  "jobTitle": "أخصائي أول",
+  "issueDate": "2026-02-28",
+  "leaveType": "PSL"
     }
   ]
 }
