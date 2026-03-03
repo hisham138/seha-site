@@ -1735,6 +1735,20 @@
   "jobTitle": " استشاري باطنية",
   "issueDate": "2026-02-16",
   "leaveType": "PSL"
+    },
+    {
+    "leaveCode": "25121995555",
+  "serviceCode": "25121995555",
+  "nationalId": "1067408235",
+  "idNumber": "1067408235",
+  "name": "فايزه عبدالمغيث الحربي",
+  "admissionDate": "2026-03-04",
+  "dischargeDate": "2026-03-04",
+  "leaveDuration": "1",
+  "doctorName": "أيمن الجهني ",
+  "jobTitle": " طبيب عام",
+  "issueDate": "2026-03-04",
+  "leaveType": "GSL"
     }
   ]
 }
