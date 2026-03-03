@@ -1791,6 +1791,20 @@
   "jobTitle": " طبيب عام",
   "issueDate": "2026-03-02",
   "leaveType": "PSL"
-    }
+    },
+     {
+    "leaveCode": "25121995881",
+  "serviceCode": "25121995881",
+  "nationalId": "1131261578",
+  "idNumber": "1131261578",
+  "name": "عفاف سالم سويلم الشراري ",
+  "admissionDate": "2026-03-02",
+  "dischargeDate": "2026-03-02",
+  "leaveDuration": "1",
+  "doctorName": "تامر فورزى منصور ",
+  "jobTitle": " طبيب عام",
+  "issueDate": "2026-03-02",
+  "leaveType": "PSL"
+   }
   ]
 }
