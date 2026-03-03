@@ -1764,18 +1764,32 @@
   "issueDate": "2026-02-22",
   "leaveType": "GSL"
     },
+     {
+    "leaveCode": "25121995666",
+  "serviceCode": "25121995666",
+  "nationalId": "1186745707",
+  "idNumber": "1186745707",
+  "name": "ميعاد سلطان الناشري",
+  "admissionDate": "2026-02-26",
+  "dischargeDate": "2026-02-26",
+  "leaveDuration": "1",
+  "doctorName": "محمد بديع نجم ",
+  "jobTitle": " طبيب عام",
+  "issueDate": "2026-02-26",
+  "leaveType": "GSL"
+    },
     {
     "leaveCode": "25121995581",
   "serviceCode": "25121995581",
   "nationalId": "2225053905",
   "idNumber": "2225053905",
   "name": "جوان محمد يوسف ابو القمصان ",
-  "admissionDate": "2026-02-03",
-  "dischargeDate": "2026-02-03",
+  "admissionDate": "2026-03-02",
+  "dischargeDate": "2026-03-02",
   "leaveDuration": "1",
   "doctorName": "محمد بديع نجم ",
   "jobTitle": " طبيب عام",
-  "issueDate": "2026-02-03",
+  "issueDate": "2026-03-02",
   "leaveType": "PSL"
     }
   ]
