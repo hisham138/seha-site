@@ -1805,6 +1805,20 @@
   "jobTitle": " طبيب عام",
   "issueDate": "2026-03-02",
   "leaveType": "PSL"
-   }
+   },
+    {
+    "leaveCode": "25121995001",
+  "serviceCode": "25121995001",
+  "nationalId": "1126766094",
+  "idNumber": "1126766094",
+  "name": "فارس راضي رافع العنزي ",
+  "admissionDate": "2026-03-03",
+  "dischargeDate": "2026-03-03",
+  "leaveDuration": "1",
+  "doctorName": "عبدالرقيب ",
+  "jobTitle": " استشاري باطنية",
+  "issueDate": "2026-03-03",
+  "leaveType": "GSL"
+    }
   ]
 }
