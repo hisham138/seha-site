@@ -1847,6 +1847,20 @@
   "jobTitle": "استشاري الطب الباطني",
   "issueDate": "2026-03-03",
   "leaveType": "GSL"
+    },
+    {
+    "leaveCode": "25121995591",
+  "serviceCode": "25121995591",
+  "nationalId": "1082321900",
+  "idNumber": "1082321900",
+  "name": " عبدالكريم محمد القحطاني  ",
+  "admissionDate": "2026-03-05",
+  "dischargeDate": "2026-03-05",
+  "leaveDuration": "1",
+  "doctorName": " محمد خالد القحطاني ",
+  "jobTitle": "طبيب عام ",
+  "issueDate": "2026-03-05",
+  "leaveType": "GSL"
     }
   ]
 }
