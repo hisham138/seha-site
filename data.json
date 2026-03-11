@@ -1875,6 +1875,20 @@
   "jobTitle": " استشاري جراحة العظام والمفاصل والقدمين",
   "issueDate": "2026-03-09",
   "leaveType": "GSL"
+    },
+    {
+    "leaveCode": "05121995587",
+  "serviceCode": "05121995587",
+  "nationalId": "1128193651",
+  "idNumber": "1128193651",
+  "name": " ياسر ماهر عبدالرحيم محمد رجب  ",
+  "admissionDate": "2026-03-11",
+  "dischargeDate": "2026-03-11",
+  "leaveDuration": "1",
+  "doctorName": "  محمد حسن  ",
+  "jobTitle": " طبيب عام ",
+  "issueDate": "2026-03-11",
+  "leaveType": "PSL"
     }
   ]
 }
