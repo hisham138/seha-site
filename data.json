@@ -1917,6 +1917,20 @@
   "jobTitle": " طبيب عام ",
   "issueDate": "2026-03-16",
   "leaveType": "GSL"
+    },
+    {
+    "leaveCode": "05121997446",
+  "serviceCode": "05121997446",
+  "nationalId": "1128193651",
+  "idNumber": "1128193651",
+  "name": " ياسر ماهر عبدالرحيم محمد رجب  ",
+  "admissionDate": "2026-03-18",
+  "dischargeDate": "2026-03-18",
+  "leaveDuration": "1",
+  "doctorName": "  محمد حسن  ",
+  "jobTitle": " طبيب عام ",
+  "issueDate": "2026-03-18",
+  "leaveType": "PSL"
     }
   ]
 }
