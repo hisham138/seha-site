@@ -1931,6 +1931,48 @@
   "jobTitle": " طبيب عام ",
   "issueDate": "2026-03-18",
   "leaveType": "PSL"
+    },
+    {
+    "leaveCode": "25126994111",
+  "serviceCode": "25126994111",
+  "nationalId": "1134243706",
+  "idNumber": "1134243706",
+  "name": " احمد مقبول السهري  ",
+  "admissionDate": "2026-02-25",
+  "dischargeDate": "2026-02-25",
+  "leaveDuration": "1",
+  "doctorName": "  حسين حجلان  ",
+  "jobTitle": " أخصائي باطنية ",
+  "issueDate": "2026-02-25",
+  "leaveType": "GSL"
+    },
+    {
+    "leaveCode": "25126995802",
+  "serviceCode": "25126995802",
+  "nationalId": "1134243706",
+  "idNumber": "1134243706",
+  "name": " احمد مقبول السهري  ",
+  "admissionDate": "2026-03-04",
+  "dischargeDate": "2026-03-04",
+  "leaveDuration": "1",
+  "doctorName": "  حسين حجلان  ",
+  "jobTitle": " أخصائي باطنية ",
+  "issueDate": "2026-03-04",
+  "leaveType": "GSL"
+    },
+    {
+    "leaveCode": "25126995696",
+  "serviceCode": "25126995696",
+  "nationalId": "1134243706",
+  "idNumber": "1134243706",
+  "name": " احمد مقبول السهري  ",
+  "admissionDate": "2026-03-02",
+  "dischargeDate": "2026-03-02",
+  "leaveDuration": "1",
+  "doctorName": "  حسين حجلان  ",
+  "jobTitle": " أخصائي باطنية ",
+  "issueDate": "2026-03-02",
+  "leaveType": "GSL"
     }
   ]
 }
