@@ -1973,6 +1973,20 @@
   "jobTitle": " أخصائي باطنية ",
   "issueDate": "2026-03-02",
   "leaveType": "GSL"
+    },
+    {
+    "leaveCode": "89457053315",
+  "serviceCode": "89457053315",
+  "nationalId": "1114324369",
+  "idNumber": "1114324369",
+  "name": " نور جابر الزيلعي  ",
+  "admissionDate": "2026-03-30",
+  "dischargeDate": "2026-03-30",
+  "leaveDuration": "1",
+  "doctorName": "  سعود بن علي الزهراني  ",
+  "jobTitle": " أخصائي باطنية ",
+  "issueDate": "2026-03-30",
+  "leaveType": "GSL"
     }
   ]
 }
