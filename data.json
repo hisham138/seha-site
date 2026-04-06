@@ -2211,6 +2211,20 @@
   "jobTitle": " استشاري باطنية ",
   "issueDate": "2026-04-05",
   "leaveType": "GSL"
-     }
+     },
+    {
+    "leaveCode": "25126995802",
+  "serviceCode": "25126995802",
+  "nationalId": "1141282366",
+  "idNumber": "1141282366",
+  "name": "ياسر محمد ظافر الشهراني     ",
+  "admissionDate": "2026-04-06",
+  "dischargeDate": "2026-04-06",
+  "leaveDuration": "1",
+  "doctorName": "  عبدالحميد الوابل  ",
+  "jobTitle": " استشاري باطنية ",
+  "issueDate": "2026-04-06",
+  "leaveType": "GSL"
+    }
   ]
 }
