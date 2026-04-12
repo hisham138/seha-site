@@ -2393,6 +2393,34 @@
   "jobTitle": "  طبيب عام ",
   "issueDate": "2026-04-12",
   "leaveType": "GSL"
+       },
+     {
+    "leaveCode": "28274664573",
+  "serviceCode": "28274664573",
+  "nationalId": "1137973285",
+  "idNumber": "1137973285",
+  "name": "انس يوسف سند الشراري    ",
+  "admissionDate": "2026-02-22",
+  "dischargeDate": "2026-02-22",
+  "leaveDuration": "1",
+  "doctorName": " فواز الرويلي  ",
+  "jobTitle": "  طبيب عام ",
+  "issueDate": "2026-02-22",
+  "leaveType": "GSL"
+     },
+     {
+    "leaveCode": "28274667936",
+  "serviceCode": "28274667936",
+  "nationalId": "1137973285",
+  "idNumber": "1137973285",
+  "name": "انس يوسف سند الشراري    ",
+  "admissionDate": "2026-03-02",
+  "dischargeDate": "2026-03-02",
+  "leaveDuration": "1",
+  "doctorName": " فواز الرويلي  ",
+  "jobTitle": "  طبيب عام ",
+  "issueDate": "2026-03-02",
+  "leaveType": "GSL"
      }
   ]
 }
