@@ -2421,6 +2421,34 @@
   "jobTitle": "  طبيب عام ",
   "issueDate": "2026-03-02",
   "leaveType": "GSL"
+       },
+     {
+    "leaveCode": "56028102660",
+  "serviceCode": "56028102660",
+  "nationalId": "1130239138",
+  "idNumber": "1130239138",
+  "name": "الجازي مساعد احمد الخشرمي    ",
+  "admissionDate": "2026-04-12",
+  "dischargeDate": "2026-04-12",
+  "leaveDuration": "1",
+  "doctorName": "عاصم الشريف  ",
+  "jobTitle": "  استشاري باطنية ",
+  "issueDate": "2026-04-12",
+  "leaveType": "GSL"
+       },
+     {
+    "leaveCode": "56028102755",
+  "serviceCode": "56028102755",
+  "nationalId": "1130239138",
+  "idNumber": "1130239138",
+  "name": "الجازي مساعد احمد الخشرمي    ",
+  "admissionDate": "2026-04-14",
+  "dischargeDate": "2026-04-14",
+  "leaveDuration": "1",
+  "doctorName": "عاصم الشريف  ",
+  "jobTitle": "  استشاري باطنية ",
+  "issueDate": "2026-04-14",
+  "leaveType": "GSL"
     }
   ]
 }
