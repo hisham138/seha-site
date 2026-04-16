@@ -2463,6 +2463,20 @@
   "jobTitle": " طبيب عام ",
   "issueDate": "2026-04-14",
   "leaveType": "GSL"
+    },
+    {
+    "leaveCode": "35828430105",
+  "serviceCode": "35828430105",
+  "nationalId": "1125482230",
+  "idNumber": "1125482230",
+  "name": "رغد احمد الشن    ",
+  "admissionDate": "2026-01-29",
+  "dischargeDate": "2026-01-29",
+  "leaveDuration": "1",
+  "doctorName": "سلطان العطوي  ",
+  "jobTitle": " طبيب عام ",
+  "issueDate": "2026-01-29",
+  "leaveType": "GSL"
     }
   ]
 }
