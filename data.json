@@ -2519,6 +2519,62 @@
   "jobTitle": "استشاري باطنية",
   "issueDate": "2026-04-15",
   "leaveType": "GSL"
+  },
+    {
+    "leaveCode": "90755173595",
+  "serviceCode": "90755173595",
+  "nationalId": "1124014109",
+  "idNumber": "1124014109",
+  "name": "غرام لافي عقيل الفهيقي     ",
+  "admissionDate": "2026-04-09",
+  "dischargeDate": "2026-04-09",
+  "leaveDuration": "1",
+  "doctorName": "  رانيا سليم  ",
+  "jobTitle": " استشاري ",
+  "issueDate": "2026-04-09",
+  "leaveType": "GSL"
+      },
+    {
+    "leaveCode": "90755173611",
+  "serviceCode": "90755173611",
+  "nationalId": "1124014109",
+  "idNumber": "1124014109",
+  "name": "غرام لافي عقيل الفهيقي     ",
+  "admissionDate": "2026-04-12",
+  "dischargeDate": "2026-04-12",
+  "leaveDuration": "1",
+  "doctorName": "  رانيا سليم  ",
+  "jobTitle": " استشاري ",
+  "issueDate": "2026-04-12",
+  "leaveType": "GSL"
+        },
+    {
+    "leaveCode": "90755174121",
+  "serviceCode": "90755174121",
+  "nationalId": "1124014109",
+  "idNumber": "1124014109",
+  "name": "غرام لافي عقيل الفهيقي     ",
+  "admissionDate": "2026-04-14",
+  "dischargeDate": "2026-04-14",
+  "leaveDuration": "1",
+  "doctorName": "  رانيا سليم  ",
+  "jobTitle": " استشاري ",
+  "issueDate": "2026-04-14",
+  "leaveType": "GSL"
+        },
+    {
+    "leaveCode": "90755174266",
+  "serviceCode": "90755174266",
+  "nationalId": "1124014109",
+  "idNumber": "1124014109",
+  "name": "غرام لافي عقيل الفهيقي     ",
+  "admissionDate": "2026-04-16",
+  "dischargeDate": "2026-04-16",
+  "leaveDuration": "1",
+  "doctorName": "  رانيا سليم  ",
+  "jobTitle": " استشاري ",
+  "issueDate": "2026-04-16",
+  "leaveType": "GSL"
     }
   ]
 }
