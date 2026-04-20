@@ -2589,6 +2589,20 @@
   "jobTitle": " طبيب عام ",
   "issueDate": "2026-04-07",
   "leaveType": "GSL"
+     },
+     {
+    "leaveCode": "67494067184",
+  "serviceCode": "67494067184",
+  "nationalId": "1042859957",
+  "idNumber": "1042859957",
+  "name": "عائشة حسن العزي   ",
+  "admissionDate": "2026-03-030",
+  "dischargeDate": "2026-04-02",
+  "leaveDuration": "4",
+  "doctorName": "امجد حامد محمد احمد  ",
+  "jobTitle": "أخصائي باطنية",
+  "issueDate": "2026-04-02",
+  "leaveType": "GSL"
     }
   ]
 }
