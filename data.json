@@ -2631,6 +2631,76 @@
   "jobTitle": " استشاري باطنية ",
   "issueDate": "2026-04-20",
   "leaveType": "GSL"
+       },
+     {
+    "leaveCode": "90315589900",
+  "serviceCode": "90315589900",
+  "nationalId": "1133718948",
+  "idNumber": "1133718948",
+  "name": "اجوان يحي احمد الشهراني    ",
+  "admissionDate": "2026-04-02",
+  "dischargeDate": "2026-04-02",
+  "leaveDuration": "1",
+  "doctorName": "سعيد الأحمري  ",
+  "jobTitle": " استشاري باطنية ",
+  "issueDate": "2026-04-02",
+  "leaveType": "GSL"
+       },
+     {
+    "leaveCode": "90315590034",
+  "serviceCode": "90315590034",
+  "nationalId": "1133718948",
+  "idNumber": "1133718948",
+  "name": "اجوان يحي احمد الشهراني    ",
+  "admissionDate": "2026-04-05",
+  "dischargeDate": "2026-04-05",
+  "leaveDuration": "1",
+  "doctorName": "سعيد الأحمري  ",
+  "jobTitle": " استشاري باطنية ",
+  "issueDate": "2026-04-05",
+  "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "90315590123",
+  "serviceCode": "90315590123",
+  "nationalId": "1133718948",
+  "idNumber": "1133718948",
+  "name": "اجوان يحي احمد الشهراني    ",
+  "admissionDate": "2026-04-09",
+  "dischargeDate": "2026-04-09",
+  "leaveDuration": "1",
+  "doctorName": "سعيد الأحمري  ",
+  "jobTitle": " استشاري باطنية ",
+  "issueDate": "2026-04-09",
+  "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "90315590206",
+  "serviceCode": "90315590206",
+  "nationalId": "1133718948",
+  "idNumber": "1133718948",
+  "name": "اجوان يحي احمد الشهراني    ",
+  "admissionDate": "2026-04-14",
+  "dischargeDate": "2026-04-14",
+  "leaveDuration": "1",
+  "doctorName": "سعيد الأحمري  ",
+  "jobTitle": " استشاري باطنية ",
+  "issueDate": "2026-04-14",
+  "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "90315590300",
+  "serviceCode": "90315590300",
+  "nationalId": "1133718948",
+  "idNumber": "1133718948",
+  "name": "اجوان يحي احمد الشهراني    ",
+  "admissionDate": "2026-04-16",
+  "dischargeDate": "2026-04-16",
+  "leaveDuration": "1",
+  "doctorName": "سعيد الأحمري  ",
+  "jobTitle": " استشاري باطنية ",
+  "issueDate": "2026-04-16",
+  "leaveType": "GSL"
     }
   ]
 }
