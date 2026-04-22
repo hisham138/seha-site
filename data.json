@@ -2701,6 +2701,20 @@
   "jobTitle": " استشاري باطنية ",
   "issueDate": "2026-04-16",
   "leaveType": "GSL"
+     },
+     {
+    "leaveCode": "92721206956",
+  "serviceCode": "92721206956",
+  "nationalId": "1141496966",
+  "idNumber": "1141496966",
+  "name": "ساره محمد شارع العجمي    ",
+  "admissionDate": "2026-04-22",
+  "dischargeDate": "2026-04-22",
+  "leaveDuration": "1",
+  "doctorName": "محمد خالد القحطاني  ",
+  "jobTitle": " طبيب عام ",
+  "issueDate": "2026-04-22",
+  "leaveType": "GSL"
     }
   ]
 }
