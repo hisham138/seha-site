@@ -2743,6 +2743,20 @@
   "jobTitle": "  طبيب باطنية ",
   "issueDate": "2026-04-08",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "78780515233",
+  "serviceCode": "78780515233",
+  "nationalId": "1141282366",
+  "idNumber": "1141282366",
+  "name": "ياسر محمد ظافر الشهراني      ",
+  "admissionDate": "2026-03-29",
+  "dischargeDate": "2026-03-29",
+  "leaveDuration": "1", 
+  "doctorName": "سعيد الأحمري  ",
+  "jobTitle": "  استشاري باطنية ",
+  "issueDate": "2026-03-29",
+  "leaveType": "GSL"
     }
   ]
 }
