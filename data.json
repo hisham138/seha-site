@@ -2897,6 +2897,20 @@
   "jobTitle": "  استشاري الأمراض الباطنية",
   "issueDate": "2026-04-26",
   "leaveType": "PSL"
+      },
+     {
+    "leaveCode": "86966021943",
+  "serviceCode": "86966021943",
+  "nationalId": "1140148634",
+  "idNumber": "1140148634",
+  "name": "سحر خالد الشمري     ",
+  "admissionDate": "2026-04-22",
+  "dischargeDate": "2026-04-22",
+  "leaveDuration": "1",
+  "doctorName": " أحمد سليمان الجباري  ",
+  "jobTitle": "  استشاري باطنية",
+  "issueDate": "2026-04-22",
+  "leaveType": "GSL"
     }
   ]
 }
