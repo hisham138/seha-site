@@ -2841,6 +2841,62 @@
   "jobTitle": "  طبيب عام",
   "issueDate": "2026-04-26",
   "leaveType": "GSL"
+   },
+     {
+    "leaveCode": "56689427356",
+  "serviceCode": "56689427356",
+  "nationalId": "1132112945",
+  "idNumber": "1132112945",
+  "name": " وسن محمد حسن حكمي     ",
+  "admissionDate": "2026-04-26",
+  "dischargeDate": "2026-04-26",
+  "leaveDuration": "1",
+  "doctorName": " حافظ ملحان  ",
+  "jobTitle": "  طبيب عام",
+  "issueDate": "2026-04-26",
+  "leaveType": "GSL"
+   },
+   {
+    "leaveCode": "52606274903",
+  "serviceCode": "52606274903",
+  "nationalId": "1049850447",
+  "idNumber": "1049850447",
+  "name": "هلا مطير الحيسوني      ",
+  "admissionDate": "2026-04-23",
+  "dischargeDate": "2026-04-23",
+  "leaveDuration": "1",
+  "doctorName": " محمد الشمري  ",
+  "jobTitle": "  طبيب عام",
+  "issueDate": "2026-04-23",
+  "leaveType": "GSL"
+     },
+     {
+    "leaveCode": "90414646971",
+  "serviceCode": "90414646971",
+  "nationalId": "1096549751",
+  "idNumber": "1096549751",
+  "name": " عمر حزام عمر الشهري     ",
+  "admissionDate": "2026-04-26",
+  "dischargeDate": "2026-05-05",
+  "leaveDuration": "10",
+  "doctorName": " محمد آل فايع  ",
+  "jobTitle": "  نائب أول باطنية",
+  "issueDate": "2026-05-05",
+  "leaveType": "GSL"
+     },
+     {
+    "leaveCode": "24518005957",
+  "serviceCode": "24518005957",
+  "nationalId": "1053259568",
+  "idNumber": "1053259568",
+  "name": "مستور عطية مصلح الحارثي     ",
+  "admissionDate": "2026-04-26",
+  "dischargeDate": "2026-04-26",
+  "leaveDuration": "3",
+  "doctorName": " رشا السيد عمر  ",
+  "jobTitle": "  استشاري الأمراض الباطنية",
+  "issueDate": "2026-04-26",
+  "leaveType": "PSL"
     }
   ]
 }
