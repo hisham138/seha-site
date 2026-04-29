@@ -2911,6 +2911,20 @@
   "jobTitle": "  استشاري باطنية",
   "issueDate": "2026-04-22",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "24974949789",
+  "serviceCode": "24974949789",
+  "nationalId": "1136556667",
+  "idNumber": "1136556667",
+  "name": "ملاذ فهد علي الحويطي     ",
+  "admissionDate": "2026-04-29",
+  "dischargeDate": "2026-04-29",
+  "leaveDuration": "1",
+  "doctorName": " ماجد البلوي  ",
+  "jobTitle": "  نائب أول باطنية",
+  "issueDate": "2026-04-29",
+  "leaveType": "GSL"
     }
   ]
 }
