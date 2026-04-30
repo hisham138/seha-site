@@ -2967,6 +2967,20 @@
   "jobTitle": "  استشاري ",
   "issueDate": "2026-04-20",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "73985610132",
+  "serviceCode": "73985610132",
+  "nationalId": "1141282366",
+  "idNumber": "1141282366",
+  "name": "ياسر محمد ظافر الشهراني     ",
+  "admissionDate": "2026-04-26",
+  "dischargeDate": "2026-04-26",
+  "leaveDuration": "1",
+  "doctorName": " سعيد الأحمري  ",
+  "jobTitle": "استشاري باطنية",
+  "issueDate": "2026-04-26",
+  "leaveType": "GSL"
     }
   ]
 }
