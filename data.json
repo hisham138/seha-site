@@ -2925,6 +2925,48 @@
   "jobTitle": "  نائب أول باطنية",
   "issueDate": "2026-04-29",
   "leaveType": "GSL"
+  },
+     {
+    "leaveCode": "72049535765",
+  "serviceCode": "72049535765",
+  "nationalId": "1142951951",
+  "idNumber": "1142951951",
+  "name": "علي حسين المحمود     ",
+  "admissionDate": "2026-04-06",
+  "dischargeDate": "2026-04-06",
+  "leaveDuration": "1",
+  "doctorName": " مازن بن عبدالجليل بن أحمد الزاير  ",
+  "jobTitle": "  استشاري ",
+  "issueDate": "2026-04-06",
+  "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "72049535882",
+  "serviceCode": "72049535882",
+  "nationalId": "1142951951",
+  "idNumber": "1142951951",
+  "name": "علي حسين المحمود     ",
+  "admissionDate": "2026-04-13",
+  "dischargeDate": "2026-04-13",
+  "leaveDuration": "1",
+  "doctorName": " مازن بن عبدالجليل بن أحمد الزاير  ",
+  "jobTitle": "  استشاري ",
+  "issueDate": "2026-04-13",
+  "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "72049535923",
+  "serviceCode": "72049535923",
+  "nationalId": "1142951951",
+  "idNumber": "1142951951",
+  "name": "علي حسين المحمود     ",
+  "admissionDate": "2026-04-20",
+  "dischargeDate": "2026-04-20",
+  "leaveDuration": "1",
+  "doctorName": " مازن بن عبدالجليل بن أحمد الزاير  ",
+  "jobTitle": "  استشاري ",
+  "issueDate": "2026-04-20",
+  "leaveType": "GSL"
     }
   ]
 }
