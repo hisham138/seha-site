@@ -2981,6 +2981,20 @@
   "jobTitle": "استشاري باطنية",
   "issueDate": "2026-04-26",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "15047853466",
+  "serviceCode": "15047853466",
+  "nationalId": "1115313908",
+  "idNumber": "1115313908",
+  "name": "نجد بندر العنزي     ",
+  "admissionDate": "2026-04-27",
+  "dischargeDate": "2026-04-27",
+  "leaveDuration": "1",
+  "doctorName": " منصور التويجري  ",
+  "jobTitle": "طبيب عام",
+  "issueDate": "2026-04-27",
+  "leaveType": "PSL"
     }
   ]
 }
