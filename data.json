@@ -3023,6 +3023,20 @@
   "jobTitle": "طبيب عام",
   "issueDate": "2026-05-03",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "72394164954",
+  "serviceCode": "72394164954",
+  "nationalId": "1122730888",
+  "idNumber": "1122730888",
+  "name": "تركي محمد القحطاني   ",
+  "admissionDate": "2026-05-03",
+  "dischargeDate": "2026-05-03",
+  "leaveDuration": "1",
+  "doctorName": " فواز الرويلي ",
+  "jobTitle": "طبيب عام",
+  "issueDate": "2026-05-03",
+  "leaveType": "GSL"
     }
   ]
 }
