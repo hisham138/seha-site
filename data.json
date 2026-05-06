@@ -3093,6 +3093,20 @@
   "jobTitle": "طبيب عام",
   "issueDate": "2026-05-05",
   "leaveType": "PSL"
+     },
+     {
+    "leaveCode": "64881709434",
+  "serviceCode": "64881709434",
+  "nationalId": "1077954301",
+  "idNumber": "1077954301",
+  "name": "امل عبيد فدعوس الرويلي   ",
+  "admissionDate": "2026-05-06",
+  "dischargeDate": "2026-05-55",
+  "leaveDuration": "1",
+  "doctorName": " عبدالله البطحي ",
+  "jobTitle": "طبيب عام",
+  "issueDate": "2026-05-06",
+  "leaveType": "GSL"
     }
   ]
 }
