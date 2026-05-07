@@ -3107,6 +3107,48 @@
   "jobTitle": "طبيب عام",
   "issueDate": "2026-05-06",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "04854931843",
+  "serviceCode": "04854931843",
+  "nationalId": "1135687141",
+  "idNumber": "1135687141",
+  "name": "عبد العزيز محمد بن ابراهيم آل طه   ",
+  "admissionDate": "2026-02-24",
+  "dischargeDate": "2026-02-24",
+  "leaveDuration": "1",
+  "doctorName": " خلیل حميد السيد خليل ",
+  "jobTitle": "طبيب أسنان عام",
+  "issueDate": "2026-02-24",
+  "leaveType": "PSL"
+    },
+     {
+    "leaveCode": "01454431732",
+  "serviceCode": "01454431732",
+  "nationalId": "1135687141",
+  "idNumber": "1135687141",
+  "name": "عبد العزيز محمد بن ابراهيم آل طه   ",
+  "admissionDate": "2026-03-31",
+  "dischargeDate": "2026-03-31",
+  "leaveDuration": "1",
+  "doctorName": " محمد حمدي علي الحداد ",
+  "jobTitle": "طبيب عام",
+  "issueDate": "2026-03-31",
+  "leaveType": "PSL"
+  },
+     {
+    "leaveCode": "01454438299",
+  "serviceCode": "01454438299",
+  "nationalId": "1135687141",
+  "idNumber": "1135687141",
+  "name": "عبد العزيز محمد بن ابراهيم آل طه   ",
+  "admissionDate": "2026-04-28",
+  "dischargeDate": "2026-04-28",
+  "leaveDuration": "1",
+  "doctorName": " احمد سید احمد محمد جنیدی ",
+  "jobTitle": "نائب",
+  "issueDate": "2026-04-28",
+  "leaveType": "PSL"
     }
   ]
 }
