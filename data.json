@@ -3177,6 +3177,48 @@
   "jobTitle": "طبيب أسنان عام ",
   "issueDate": "2026-03-16",
   "leaveType": "PSL"
+  },
+     {
+    "leaveCode": "19533956532",
+  "serviceCode": "19533956532",
+  "nationalId": "1179601743",
+  "idNumber": "1179601743",
+  "name": "فجر فهد عيد العطوي    ",
+  "admissionDate": "2026-02-25",
+  "dischargeDate": "2026-02-25",
+  "leaveDuration": "1",
+  "doctorName": " اريام سلطان عبدالله المطيري ",
+  "jobTitle": "طبيب عام",
+  "issueDate": "2026-02-25",
+  "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "19533956493",
+  "serviceCode": "19533956493",
+  "nationalId": "1179601743",
+  "idNumber": "1179601743",
+  "name": "فجر فهد عيد العطوي    ",
+  "admissionDate": "2026-02-19",
+  "dischargeDate": "2026-02-19",
+  "leaveDuration": "1",
+  "doctorName": " اريام سلطان عبدالله المطيري ",
+  "jobTitle": "طبيب عام",
+  "issueDate": "2026-02-19",
+  "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "19533956423",
+  "serviceCode": "19533956423",
+  "nationalId": "1179601743",
+  "idNumber": "1179601743",
+  "name": "فجر فهد عيد العطوي    ",
+  "admissionDate": "2026-02-18",
+  "dischargeDate": "2026-02-18",
+  "leaveDuration": "1",
+  "doctorName": " اريام سلطان عبدالله المطيري ",
+  "jobTitle": "طبيب عام",
+  "issueDate": "2026-02-18",
+  "leaveType": "GSL"
     }
   ]
 }
