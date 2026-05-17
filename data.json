@@ -3345,6 +3345,20 @@
   "jobTitle": "استشاري باطنية",
   "issueDate": "2026-05-17",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "23920485627",
+  "serviceCode": "23920485627",
+  "nationalId": "1120120926",
+  "idNumber": "1120120926",
+  "name": "محمد بن ناصر بن حمد ال جبرين      ",
+  "admissionDate": "2026-05-17",
+  "dischargeDate": "2026-05-17",
+  "leaveDuration": "1",
+  "doctorName": "محمد خالد القحطاني ",
+  "jobTitle": " طبيب عام",
+  "issueDate": "2026-05-17",
+  "leaveType": "GSL"
     }
   ]
 }
