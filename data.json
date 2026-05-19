@@ -3359,6 +3359,20 @@
   "jobTitle": " طبيب عام",
   "issueDate": "2026-05-17",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "92915582913",
+  "serviceCode": "92915582913",
+  "nationalId": "1137932446",
+  "idNumber": "1137932446",
+  "name": "لمار عبدالعزيز محمد البشر      ",
+  "admissionDate": "2026-05-13",
+  "dischargeDate": "2026-05-13",
+  "leaveDuration": "1",
+  "doctorName": "هاني العمودي ",
+  "jobTitle": " استشاري باطنية",
+  "issueDate": "2026-05-13",
+  "leaveType": "GSL"
     }
   ]
 }
