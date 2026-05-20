@@ -3401,6 +3401,20 @@
   "jobTitle": "  استشاري باطنية",
   "issueDate": "2026-05-19",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "14288077007",
+  "serviceCode": "14288077007",
+  "nationalId": "1108024926",
+  "idNumber": "1108024926",
+  "name": "زيد ظافر مزهر الشمراني      ",
+  "admissionDate": "2026-05-17",
+  "dischargeDate": "2026-05-17",
+  "leaveDuration": "1",
+  "doctorName": "سميرة عبدالعزيز ",
+  "jobTitle": " طبيب عام",
+  "issueDate": "2026-05-17",
+  "leaveType": "PSL"
     }
   ]
 }
