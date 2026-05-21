@@ -3471,6 +3471,49 @@
   "jobTitle": " طبيب عام",
   "issueDate": "2026-05-20",
   "leaveType": "PSL"
+   },
+     {
+    "leaveCode": "89998019823",
+  "serviceCode": "89998019823",
+  "nationalId": "1140642230",
+  "idNumber": "1140642230",
+  "name": "جنى بنت عبدالرحمن بن ابراهيم الموسى      ",
+  "admissionDate": "2026-05-21",
+  "dischargeDate": "2026-05-21",
+  "leaveDuration": "1",
+  "doctorName": "عصام النحراوي ",
+  "jobTitle": "استشاري باطنية",
+  "issueDate": "2026-05-21",
+  "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "62775482622",
+  "serviceCode": "62775482622",
+  "nationalId": "1125619831",
+  "idNumber": "1125619831",
+  "name": "رند حماد هبيكان الشمري      ",
+  "admissionDate": "2026-03-30",
+  "dischargeDate": "2026-03-30",
+  "leaveDuration": "1",
+  "doctorName": "محمد الشهري ",
+  "jobTitle": "طبيب عام ",
+  "issueDate": "2026-03-30",
+  "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "62775482511",
+  "serviceCode": "62775482511",
+  "nationalId": "1125619831",
+  "idNumber": "1125619831",
+  "name": "رند حماد هبيكان الشمري      ",
+  "admissionDate": "2026-02-23",
+  "dischargeDate": "2026-02-23",
+  "leaveDuration": "1",
+  "doctorName": "محمد الشهري ",
+  "jobTitle": "طبيب عام ",
+  "issueDate": "2026-02-23",
+  "leaveType": "GSL"
+    
     }
   ]
 }
