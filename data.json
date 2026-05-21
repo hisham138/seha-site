@@ -3513,6 +3513,20 @@
   "jobTitle": "طبيب عام ",
   "issueDate": "2026-02-23",
   "leaveType": "GSL"
+   },
+     {
+    "leaveCode": "58561958559",
+  "serviceCode": "58561958559",
+  "nationalId": "1083645380",
+  "idNumber": "1083645380",
+  "name": "مصعب عبدالرحمن باوزير      ",
+  "admissionDate": "2026-05-16",
+  "dischargeDate": "2026-05-16",
+  "leaveDuration": "1",
+  "doctorName": "هاني العمودي ",
+  "jobTitle": "استشاري باطنية",
+  "issueDate": "2026-05-16",
+  "leaveType": "GSL"
     
     }
   ]
