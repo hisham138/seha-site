@@ -3569,7 +3569,34 @@
   "jobTitle": "طبيب عام",
   "issueDate": "2026-05-22",
   "leaveType": "GSL"
-    
+   },
+     {
+    "leaveCode": "70041468872",
+  "serviceCode": "70041468872",
+  "nationalId": "1115837344",
+  "idNumber": "1115837344",
+  "name": "اميره الاسمري      ",
+  "admissionDate": "2026-05-25",
+  "dischargeDate": "2026-05-26",
+  "leaveDuration": "2",
+  "doctorName": "اغابي فادي يوسف باخوم ",
+  "jobTitle": "طبيب عام",
+  "issueDate": "2026-05-26",
+  "leaveType": "PSL"
+    },
+     {
+    "leaveCode": "56374098556",
+  "serviceCode": "56374098556",
+  "nationalId": "1107183012",
+  "idNumber": "1107183012",
+  "name": "احمد ابراهيم احمد عسيري      ",
+  "admissionDate": "2026-05-24",
+  "dischargeDate": "2026-05-24",
+  "leaveDuration": "1",
+  "doctorName": "سعيد الأحمري ",
+  "jobTitle": "استشاري باطنية",
+  "issueDate": "2026-05-24",
+  "leaveType": "GSL"
     }
   ]
 }
