@@ -3597,6 +3597,20 @@
   "jobTitle": "استشاري باطنية",
   "issueDate": "2026-05-24",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "61145847908",
+  "serviceCode": "61145847908",
+  "nationalId": "1122711607",
+  "idNumber": "1122711607",
+  "name": "شهد ماجد الدوسري      ",
+  "admissionDate": "2026-05-25",
+  "dischargeDate": "2026-05-25",
+  "leaveDuration": "1",
+  "doctorName": "ناصر الجهني ",
+  "jobTitle": "استشاري باطنية",
+  "issueDate": "2026-05-25",
+  "leaveType": "GSL"
     }
   ]
 }
