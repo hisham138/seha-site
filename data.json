@@ -3639,6 +3639,20 @@
   "jobTitle": "أخصائي الطب الباطني",
   "issueDate": "2026-05-30",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "16377742763",
+  "serviceCode": "16377742763",
+  "nationalId": "1122711607",
+  "idNumber": "1122711607",
+  "name": "شهد ماجد الدوسري   ",
+  "admissionDate": "2026-05-31",
+  "dischargeDate": "2026-06-01",
+  "leaveDuration": "2",
+  "doctorName": "فيصل العنزي ",
+  "jobTitle": "استشاري باطنية",
+  "issueDate": "2026-06-01",
+  "leaveType": "GSL"
     }
   ]
 }
