@@ -3667,6 +3667,20 @@
   "jobTitle": "طبيب عام",
   "issueDate": "2026-05-21",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "48445242886",
+  "serviceCode": "48445242886",
+  "nationalId": "1049850447",
+  "idNumber": "1049850447",
+  "name": " هلا مطير الحيسوني   ",
+  "admissionDate": "2026-06-02",
+  "dischargeDate": "2026-06-04",
+  "leaveDuration": "3",
+  "doctorName": "محمد آل فايع ",
+  "jobTitle": "نائب أول باطنية",
+  "issueDate": "2026-06-04",
+  "leaveType": "GSL"
     }
   ]
 }
