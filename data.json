@@ -3653,6 +3653,20 @@
   "jobTitle": "استشاري باطنية",
   "issueDate": "2026-06-01",
   "leaveType": "GSL"
+        },
+     {
+    "leaveCode": "93127866071",
+  "serviceCode": "93127866071",
+  "nationalId": "1151818885",
+  "idNumber": "1151818885",
+  "name": "غلا عبدالله لافي العنزي      ",
+  "admissionDate": "2026-05-14",
+  "dischargeDate": "2026-05-21",
+  "leaveDuration": "8",
+  "doctorName": "أديب الغالييني ",
+  "jobTitle": "طبيب عام",
+  "issueDate": "2026-05-21",
+  "leaveType": "GSL"
     }
   ]
 }
