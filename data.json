@@ -3709,6 +3709,20 @@
   "jobTitle": "طبيب عام ",
   "issueDate": "2026-06-02",
   "leaveType": "GSL"
+   },
+     {
+    "leaveCode": "43804600373",
+  "serviceCode": "43804600373",
+  "nationalId": "1074216829",
+  "idNumber": "1074216829",
+  "name": " خالد محمد حمود الرشيدي    ",
+  "admissionDate": "2026-06-02",
+  "dischargeDate": "2026-06-02",
+  "leaveDuration": "1",
+  "doctorName": "محمد الشمري ",
+  "jobTitle": "طبيب عام ",
+  "issueDate": "2026-06-02",
+  "leaveType": "GSL"
     }
   ]
 }
