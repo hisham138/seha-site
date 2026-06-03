@@ -3723,6 +3723,20 @@
   "jobTitle": "طبيب عام ",
   "issueDate": "2026-06-02",
   "leaveType": "GSL"
+   },
+     {
+    "leaveCode": "28547022470",
+  "serviceCode": "28547022470",
+  "nationalId": "1077954301",
+  "idNumber": "1077954301",
+  "name": "امل عبيد فدعوس الرويلي    ",
+  "admissionDate": "2026-06-03",
+  "dischargeDate": "2026-06-04",
+  "leaveDuration": "2",
+  "doctorName": "فيصل العنزي ",
+  "jobTitle": "استشاري باطنية  ",
+  "issueDate": "2026-06-04",
+  "leaveType": "GSL"
     }
   ]
 }
