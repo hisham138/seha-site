@@ -3737,6 +3737,20 @@
   "jobTitle": "استشاري باطنية  ",
   "issueDate": "2026-06-04",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "53578630910",
+  "serviceCode": "53578630910",
+  "nationalId": "1155686148",
+  "idNumber": "1155686148",
+  "name": "ساره سعد ساعد السالمي    ",
+  "admissionDate": "2026-06-03",
+  "dischargeDate": "2026-06-04",
+  "leaveDuration": "2",
+  "doctorName": "بندر الرويلي ",
+  "jobTitle": "استشاري باطنية  ",
+  "issueDate": "2026-06-04",
+  "leaveType": "GSL"
     }
   ]
 }
