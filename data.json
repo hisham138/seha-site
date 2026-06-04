@@ -3751,6 +3751,20 @@
   "jobTitle": "استشاري باطنية  ",
   "issueDate": "2026-06-04",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "41636248280",
+  "serviceCode": "41636248280",
+  "nationalId": "1134353075",
+  "idNumber": "1134353075",
+  "name": "وئام الحميدي الشمري      ",
+  "admissionDate": "2026-05-18",
+  "dischargeDate": "2026-05-18",
+  "leaveDuration": "1",
+  "doctorName": "رنده عيسي علي محمد ",
+  "jobTitle": " طبيب عام",
+  "issueDate": "2026-05-18",
+  "leaveType": "PSL"
     }
   ]
 }
