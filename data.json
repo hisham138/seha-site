@@ -3877,6 +3877,20 @@
   "jobTitle": "نائب أول باطنية",
   "issueDate": "2026-05-14",
   "leaveType": "GSL"
+   },
+     {
+    "leaveCode": "49702386928",
+  "serviceCode": "49702386928",
+  "nationalId": "1025694124",
+  "idNumber": "1025694124",
+  "name": "رضا العتيبي    ",
+  "admissionDate": "2026-06-09",
+  "dischargeDate": "2026-06-09",
+  "leaveDuration": "1",
+  "doctorName": "تركي الهذلي ",
+  "jobTitle": "استشاري باطنية ",
+  "issueDate": "2026-06-09",
+  "leaveType": "GSL"
     }
   ]
 }
