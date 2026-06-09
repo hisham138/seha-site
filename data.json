@@ -3905,6 +3905,20 @@
   "jobTitle": "طبيب عام   ",
   "issueDate": "2026-06-07",
   "leaveType": "GSL"
+   },
+     {
+    "leaveCode": "49965413227",
+  "serviceCode": "49965413227",
+  "nationalId": "1131261578",
+  "idNumber": "1131261578",
+  "name": " عفاف سالم سويلم الشراري    ",
+  "admissionDate": "2026-06-09",
+  "dischargeDate": "2026-06-09",
+  "leaveDuration": "1",
+  "doctorName": "فواز علي سنان ",
+  "jobTitle": " طبيب عام  ",
+  "issueDate": "2026-06-09",
+  "leaveType": "PSL"
     }
   ]
 }
