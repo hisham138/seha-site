@@ -3933,6 +3933,20 @@
   "jobTitle": " طبيب عام  ",
   "issueDate": "2026-06-09",
   "leaveType": "PSL"
+      },
+     {
+    "leaveCode": "10692046012",
+  "serviceCode": "10692046012",
+  "nationalId": "1109760171",
+  "idNumber": "1109760171",
+  "name": "مشاري مبارك عبدالله القحطاني    ",
+  "admissionDate": "2026-06-10",
+  "dischargeDate": "2026-06-10",
+  "leaveDuration": "1",
+  "doctorName": "عبدالله الشهراني ",
+  "jobTitle": " طبيب عام  ",
+  "issueDate": "2026-06-10",
+  "leaveType": "GSL"
     }
   ]
 }
