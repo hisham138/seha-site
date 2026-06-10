@@ -3961,6 +3961,48 @@
   "jobTitle": "استشاري  ",
   "issueDate": "2026-06-16",
   "leaveType": "GSL"
+   },
+     {
+    "leaveCode": "18685853690",
+  "serviceCode": "18685853690",
+  "nationalId": "1146909633",
+  "idNumber": "1146909633",
+  "name": " شوق انور بن وصل المولد    ",
+  "admissionDate": "2026-06-04",
+  "dischargeDate": "2026-06-04",
+  "leaveDuration": "1",
+  "doctorName": "محمد عبدالرحمن حسين ",
+  "jobTitle": " أخصائي باطنية  ",
+  "issueDate": "2026-06-04",
+  "leaveType": "PSL"
+    },
+     {
+    "leaveCode": "18685855357",
+  "serviceCode": "18685855357",
+  "nationalId": "1146909633",
+  "idNumber": "1146909633",
+  "name": " شوق انور بن وصل المولد    ",
+  "admissionDate": "2026-06-11",
+  "dischargeDate": "2026-06-11",
+  "leaveDuration": "1",
+  "doctorName": "محمد عبدالرحمن حسين ",
+  "jobTitle": " أخصائي باطنية  ",
+  "issueDate": "2026-06-11",
+  "leaveType": "PSL"
+   },
+     {
+    "leaveCode": "18685852343",
+  "serviceCode": "18685852343",
+  "nationalId": "1146909633",
+  "idNumber": "1146909633",
+  "name": " شوق انور بن وصل المولد    ",
+  "admissionDate": "2026-03-03",
+  "dischargeDate": "2026-03-03",
+  "leaveDuration": "1",
+  "doctorName": "محمد عبدالرحمن حسين ",
+  "jobTitle": " أخصائي باطنية  ",
+  "issueDate": "2026-03-03",
+  "leaveType": "PSL"
     }
   ]
 }
