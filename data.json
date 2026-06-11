@@ -4031,6 +4031,34 @@
   "jobTitle": "نائب باطنية",
   "issueDate": "2026-06-13",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "11850064359",
+  "serviceCode": "11850064359",
+  "nationalId": "1072295353",
+  "idNumber": "1072295353",
+  "name": "هدى احمد الزهراني    ",
+  "admissionDate": "2026-05-31",
+  "dischargeDate": "2026-05-31",
+  "leaveDuration": "1",
+  "doctorName": "سارة الدوسري ",
+  "jobTitle": "  طبيب عام   ",
+  "issueDate": "2026-05-31",
+  "leaveType": "PSL"
+    },
+     {
+    "leaveCode": "11850064444",
+  "serviceCode": "11850064444",
+  "nationalId": "1072295353",
+  "idNumber": "1072295353",
+  "name": "هدى احمد الزهراني    ",
+  "admissionDate": "2026-06-10",
+  "dischargeDate": "2026-06-10",
+  "leaveDuration": "1",
+  "doctorName": "سارة الدوسري ",
+  "jobTitle": "  طبيب عام   ",
+  "issueDate": "2026-06-10",
+  "leaveType": "PSL"
     }
   ]
 }
