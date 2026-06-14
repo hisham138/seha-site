@@ -29,18 +29,18 @@
       "leaveType": "GSL"
     },
     {
-      "leaveCode": "98548038012",
-      "serviceCode": "98548038012",
-      "nationalId": "111",
-      "idNumber": "111",
-      "name": "محمد عبد الله سعد آل مفلح العسيري",
-      "admissionDate": "2025-09-22",
-      "dischargeDate": "2025-10-04",
-      "leaveDuration": "13",
-      "doctorName": "محمد الشهراني",
+      "leaveCode": "89758949093",
+      "serviceCode": "89758949093",
+      "nationalId": "1083177863",
+      "idNumber": "1083177863",
+      "name": "عبداللطيف محمد عبدالله حدله",
+      "admissionDate": "2026-06-12",
+      "dischargeDate": "2026-06-12",
+      "leaveDuration": "1",
+      "doctorName": "نبيل قاسم ثابت مثنی",
       "jobTitle": "طبيب عام",
-      "issueDate": "2025-09-22",
-      "leaveType": "SPL"
+      "issueDate": "2026-06-12",
+      "leaveType": "GPL"
     },
     {
       "leaveCode": "13652416850",
