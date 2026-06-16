@@ -4157,6 +4157,20 @@
       "jobTitle": "استشاري ",
       "issueDate": "2026-04-14",
       "leaveType": "GSL"
+        },
+     {
+    "leaveCode": "76426753454",
+  "serviceCode": "76426753454",
+  "nationalId": "1125628592",
+  "idNumber": "1125628592",
+  "name": "ميسون يحيى علي القحطاني  ",
+  "admissionDate": "2026-06-16",
+  "dischargeDate": "2026-06-17",
+  "leaveDuration": "2",
+  "doctorName": "عبدالله خلوفه بن صالح طبيخان ",
+  "jobTitle": " استشاري",
+  "issueDate": "2026-06-17",
+  "leaveType": "GSL"
     }
   ]
 }
