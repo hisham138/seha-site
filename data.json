@@ -4201,17 +4201,31 @@
   "leaveType": "GSL"
      },
      {
-    "leaveCode": "18536645906",
-  "serviceCode": "18536645906",
-  "nationalId": "1067408243",
-  "idNumber": "1067408243",
-  "name": "دعاء عبدالمغيث عبداللطيف الحربي  ",
-  "admissionDate": "2026-06-18",
-  "dischargeDate": "2026-06-18",
+    "leaveCode": "54022837662",
+  "serviceCode": "54022837662",
+  "nationalId": "1008359661",
+  "idNumber": "1008359661",
+  "name": "إيمان رابح الحازمي   ",
+  "admissionDate": "2026-04-27",
+  "dischargeDate": "2026-04-27",
   "leaveDuration": "1",
-  "doctorName": "محمد الجزار ",
-  "jobTitle": " أخصائي الطب الباطني",
-  "issueDate": "2026-06-18",
+  "doctorName": "هاني العمودي  ",
+  "jobTitle": " استشاري باطنية",
+  "issueDate": "2026-04-27",
+  "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "54022837822",
+  "serviceCode": "54022837822",
+  "nationalId": "1008359661",
+  "idNumber": "1008359661",
+  "name": "إيمان رابح الحازمي   ",
+  "admissionDate": "2026-05-03",
+  "dischargeDate": "2026-05-03",
+  "leaveDuration": "1",
+  "doctorName": "هاني العمودي ",
+  "jobTitle": " استشاري باطنية",
+  "issueDate": "2026-04-27",
   "leaveType": "GSL"
     }
   ]
