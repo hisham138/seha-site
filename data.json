@@ -4297,6 +4297,20 @@
   "jobTitle": " استشاري",
   "issueDate": "2026-06-18",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "32823690799",
+  "serviceCode": "32823690799",
+  "nationalId": "1119069993",
+  "idNumber": "1119069993",
+  "name": "فاطمه يحيى سلامي  ",
+  "admissionDate": "2026-06-18",
+  "dischargeDate": "2026-06-18",
+  "leaveDuration": "1",
+  "doctorName": "هاني العمودي ",
+  "jobTitle": " استشاري باطنية",
+  "issueDate": "2026-06-18",
+  "leaveType": "GSL"
     }
   ]
 }
