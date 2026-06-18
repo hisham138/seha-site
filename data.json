@@ -4227,6 +4227,20 @@
   "jobTitle": " استشاري باطنية",
   "issueDate": "2026-04-27",
   "leaveType": "GSL"
+ },
+     {
+    "leaveCode": "33514426943",
+  "serviceCode": "33514426943",
+  "nationalId": "1072295353",
+  "idNumber": "1072295353",
+  "name": "هدى احمد الزهراني  ",
+  "admissionDate": "2026-06-17",
+  "dischargeDate": "2026-06-17",
+  "leaveDuration": "1",
+  "doctorName": "سارة الدوسري ",
+  "jobTitle": " طبيب عام",
+  "issueDate": "2026-06-17",
+  "leaveType": "GSL"
     }
   ]
 }
