@@ -4283,6 +4283,20 @@
   "jobTitle": " أخصائي الطب الباطني",
   "issueDate": "2026-06-19",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "42028820099",
+  "serviceCode": "42028820099",
+  "nationalId": "1131329623",
+  "idNumber": "1131329623",
+  "name": "محمد عبد الغني جبيلي  ",
+  "admissionDate": "2026-06-18",
+  "dischargeDate": "2026-06-18",
+  "leaveDuration": "1",
+  "doctorName": "مازن بن عبدالجليل بن محمد الزاير ",
+  "jobTitle": " استشاري",
+  "issueDate": "2026-06-18",
+  "leaveType": "GSL"
     }
   ]
 }
