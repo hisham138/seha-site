@@ -4341,30 +4341,30 @@
   "leaveType": "GSL"
      },
      {
-    "leaveCode": "88155869028",
-  "serviceCode": "88155869028",
+    "leaveCode": "45000596110",
+  "serviceCode": "45000596110",
   "nationalId": "1109439883",
   "idNumber": "1109439883",
   "name": "امل ظافر ابراهيم الزبيدي    ",
   "admissionDate": "2026-06-20",
   "dischargeDate": "2026-06-20",
   "leaveDuration": "1",
-  "doctorName": "روابي احمد بكر برناوی ",
-  "jobTitle": " نائب  ",
+  "doctorName": "إجلال فيصل ",
+  "jobTitle": " طبيب عام  ",
   "issueDate": "2026-06-20",
   "leaveType": "GSL"
      },
      {
-    "leaveCode": "24014704356",
-  "serviceCode": "24014704356",
+    "leaveCode": "45000596106",
+  "serviceCode": "45000596106",
   "nationalId": "1105902199",
   "idNumber": "1105902199",
   "name": "بسمه عمر الشريف    ",
   "admissionDate": "2026-06-20",
   "dischargeDate": "2026-06-20",
   "leaveDuration": "1",
-  "doctorName": "محمد زيان ",
-  "jobTitle": " أخصائي طب عام  ",
+  "doctorName": "محمد الجزار ",
+  "jobTitle": " أخصائي الطب الباطني  ",
   "issueDate": "2026-06-20",
   "leaveType": "GSL"
     }
