@@ -4367,6 +4367,20 @@
   "jobTitle": " أخصائي الطب الباطني  ",
   "issueDate": "2026-06-20",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "94583395996",
+  "serviceCode": "94583395996",
+  "nationalId": "1103716211",
+  "idNumber": "1103716211",
+  "name": "سعد عبدالله العصماني   ",
+  "admissionDate": "2026-06-17",
+  "dischargeDate": "2026-06-17",
+  "leaveDuration": "1",
+  "doctorName": "سلطان القرشي ",
+  "jobTitle": " طبيب باطنية",
+  "issueDate": "2026-06-17",
+  "leaveType": "GSL"
     }
   ]
 }
