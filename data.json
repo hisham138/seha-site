@@ -4409,6 +4409,34 @@
   "jobTitle": " طبيب  عام  ",
   "issueDate": "2026-06-21",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "82431706948",
+  "serviceCode": "82431706948",
+  "nationalId": "1073515577",
+  "idNumber": "1073515577",
+  "name": "ابتسام محمد علي البلوي   ",
+  "admissionDate": "2026-06-14",
+  "dischargeDate": "2026-06-15",
+  "leaveDuration": "1",
+  "doctorName": "ماجد البلوي ",
+  "jobTitle": " نائب أول باطنية",
+  "issueDate": "2026-06-15",
+  "leaveType": "GSL"
+         },
+     {
+    "leaveCode": "82431706948",
+  "serviceCode": "82431706948",
+  "nationalId": "1073515577",
+  "idNumber": "1073515577",
+  "name": "ابتسام محمد علي البلوي   ",
+  "admissionDate": "2026-06-16",
+  "dischargeDate": "2026-06-17",
+  "leaveDuration": "1",
+  "doctorName": "ماجد البلوي ",
+  "jobTitle": " نائب أول باطنية",
+  "issueDate": "2026-06-17",
+  "leaveType": "GSL"
     }
   ]
 }
