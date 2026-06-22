@@ -4465,6 +4465,20 @@
   "jobTitle": " ستشاري باطنية",
   "issueDate": "2026-06-22",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "22355389767",
+  "serviceCode": "22355389767",
+  "nationalId": "1009854546",
+  "idNumber": "1009854546",
+  "name": "اسماء عبدالله مشبب ال شريه     ",
+  "admissionDate": "2026-06-22",
+  "dischargeDate": "2026-06-22",
+  "leaveDuration": "1",
+  "doctorName": "عبدالله خلوفه بن صالح طبيخان ",
+  "jobTitle": "   استشاري   ",
+  "issueDate": "2026-06-22",
+  "leaveType": "GSL"
     }
   ]
 }
