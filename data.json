@@ -4493,6 +4493,20 @@
   "jobTitle": " طبيب  عام  ",
   "issueDate": "2026-06-23",
   "leaveType": "GSL"
+      },
+     {
+    "leaveCode": "51016259232",
+  "serviceCode": "51016259232",
+  "nationalId": "1067408243",
+  "idNumber": "1067408243",
+  "name": "دعاء عبدالمغيث عبداللطيف الحربي  ",
+  "admissionDate": "2026-06-23",
+  "dischargeDate": "2026-06-23",
+  "leaveDuration": "1",
+  "doctorName": "محمد الجزار ",
+  "jobTitle": " أخصائي الطب الباطني",
+  "issueDate": "2026-06-23",
+  "leaveType": "GSL"
     }
   ]
 }
