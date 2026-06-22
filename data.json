@@ -4451,6 +4451,20 @@
   "jobTitle": " استشاري",
   "issueDate": "2026-06-21",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "25110453678",
+  "serviceCode": "25110453678",
+  "nationalId": "1009854553",
+  "idNumber": "1009854553",
+  "name": "عواطف عبدالله مشبب ال شريه  ",
+  "admissionDate": "2026-06-22",
+  "dischargeDate": "2026-06-22",
+  "leaveDuration": "1",
+  "doctorName": "عبد الحميد الوابل ",
+  "jobTitle": " ستشاري باطنية",
+  "issueDate": "2026-06-22",
+  "leaveType": "GSL"
     }
   ]
 }
