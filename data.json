@@ -4549,6 +4549,20 @@
   "jobTitle": " أخصائي باطنية",
   "issueDate": "2026-06-24",
   "leaveType": "GSL"
+     },
+     {
+    "leaveCode": "11444411906",
+  "serviceCode": "11444411906",
+  "nationalId": "1001876133",
+  "idNumber": "1001876133",
+  "name": "هيله عثمان بن سليم    ",
+  "admissionDate": "2026-06-24",
+  "dischargeDate": "2026-06-25",
+  "leaveDuration": "2",
+  "doctorName": "نايف بن حمد المري ",
+  "jobTitle": " طبيب  عام  ",
+  "issueDate": "2026-06-25",
+  "leaveType": "GSL"
     }
   ]
 }
