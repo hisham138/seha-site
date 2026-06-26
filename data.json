@@ -4591,6 +4591,20 @@
   "jobTitle": "  طبيب باطنية",
   "issueDate": "2026-06-25",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "26062622030",
+  "serviceCode": "26062622030",
+  "nationalId": "1142951951",
+  "idNumber": "1142951951",
+  "name": "علي حسين بن عبدالله المحمود   ",
+  "admissionDate": "2026-06-26",
+  "dischargeDate": "2026-06-26",
+  "leaveDuration": "1",
+  "doctorName": " سلطان  العطوي ",
+  "jobTitle": "  طبيب عام",
+  "issueDate": "2026-06-26",
+  "leaveType": "GSL"
     }
   ]
 }
