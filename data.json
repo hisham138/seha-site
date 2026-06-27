@@ -4605,6 +4605,20 @@
   "jobTitle": "  طبيب عام",
   "issueDate": "2026-06-25",
   "leaveType": "GSL"
+       },
+     {
+    "leaveCode": "26062517827",
+  "serviceCode": "26062517827",
+  "nationalId": "1125409357",
+  "idNumber": "1125409357",
+  "name": "منال سامي عبدالله السبعان   ",
+  "admissionDate": "2026-06-25",
+  "dischargeDate": "2026-06-25",
+  "leaveDuration": "1",
+  "doctorName": " فهد الشهري ",
+  "jobTitle": " نائبأولباطنية",
+  "issueDate": "2026-06-25",
+  "leaveType": "GSL"
     }
   ]
 }
