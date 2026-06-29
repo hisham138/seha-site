@@ -4689,6 +4689,20 @@
   "jobTitle": " استشاري باطنية ",
   "issueDate": "2026-06-30",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "26063096545",
+  "serviceCode": "26063096545",
+  "nationalId": "1100889771",
+  "idNumber": "1100889771",
+  "name": "خالد حسين محمد معشي    ",
+  "admissionDate": "2026-06-30",
+  "dischargeDate": "2026-06-30",
+  "leaveDuration": "1",
+  "doctorName": "  ياسر الشريف ",
+  "jobTitle": " نائب أول  ",
+  "issueDate": "2026-06-30",
+  "leaveType": "GSL"
     }
   ]
 }
