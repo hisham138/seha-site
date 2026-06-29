@@ -4675,6 +4675,20 @@
   "jobTitle": "طبيب عام ",
   "issueDate": "2026-06-05",
   "leaveType": "GSL"
+     },
+     {
+    "leaveCode": "26063013555",
+  "serviceCode": "26063013555",
+  "nationalId": "1117718112",
+  "idNumber": "1117718112",
+  "name": "عبير أحمد الشريف    ",
+  "admissionDate": "2026-06-30",
+  "dischargeDate": "2026-06-30",
+  "leaveDuration": "1",
+  "doctorName": "  تركي الهذلي ",
+  "jobTitle": " استشاري باطنية ",
+  "issueDate": "2026-06-30",
+  "leaveType": "GSL"
     }
   ]
 }
