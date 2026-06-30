@@ -4745,6 +4745,20 @@
   "jobTitle": "   استشاري  ",
   "issueDate": "2026-06-30",
   "leaveType": "GSL"
+      },
+     {
+    "leaveCode": "26062989733",
+  "serviceCode": "26062989733",
+  "nationalId": "1035459435",
+  "idNumber": "1035459435",
+  "name": "كفايه فلاح سعد العتيبي    ",
+  "admissionDate": "2026-06-28",
+  "dischargeDate": "2026-06-29",
+  "leaveDuration": "2",
+  "doctorName": " ياسر المحمدي ",
+  "jobTitle": "   نائب أول باطنية  ",
+  "issueDate": "2026-06-29",
+  "leaveType": "GSL"
     }
   ]
 }
