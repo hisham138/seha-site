@@ -4717,6 +4717,20 @@
   "jobTitle": " استشاري باطنية  ",
   "issueDate": "2026-07-01",
   "leaveType": "GSL"
+      },
+     {
+    "leaveCode": "26063072715",
+  "serviceCode": "26063072715",
+  "nationalId": "1129389241",
+  "idNumber": "1129389241",
+  "name": "غلا حسين الشهراني    ",
+  "admissionDate": "2026-06-30",
+  "dischargeDate": "2026-06-30",
+  "leaveDuration": "1",
+  "doctorName": "  عبدالله خلوفه بن صالح طبيخان ",
+  "jobTitle": "  استشاري  ",
+  "issueDate": "2026-06-30",
+  "leaveType": "GSL"
     }
   ]
 }
