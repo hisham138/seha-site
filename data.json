@@ -4773,6 +4773,20 @@
   "jobTitle": "   استشاري باطنية  ",
   "issueDate": "2026-06-28",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "26070185141",
+  "serviceCode": "26070185141",
+  "nationalId": "1094180682",
+  "idNumber": "1094180682",
+  "name": "وليد عبدالله مصلح الشمران     ",
+  "admissionDate": "2026-07-01",
+  "dischargeDate": "2026-07-01",
+  "leaveDuration": "1",
+  "doctorName": "اغابي فادي يوسف باخوم ",
+  "jobTitle": "  طبيب عام  ",
+  "issueDate": "2026-07-01",
+  "leaveType": "PSL"
     }
   ]
 }
