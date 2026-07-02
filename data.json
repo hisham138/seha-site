@@ -4825,8 +4825,8 @@
   "admissionDate": "2026-07-02",
   "dischargeDate": "2026-07-02",
   "leaveDuration": "1",
-  "doctorName": "مازن بن عبدالجليل بن أحمد الزاير ",
-  "jobTitle": "   استشاري  ",
+  "doctorName": "إبراهيم عبدالله بن إبراهيم السماك ",
+  "jobTitle": "   طبيب عام   ",
   "issueDate": "2026-07-02",
   "leaveType": "GSL"
     },
@@ -4836,12 +4836,26 @@
   "nationalId": "1131329623",
   "idNumber": "1131329623",
   "name": "محمد عبدالغني الجبيلي     ",
-  "admissionDate": "2026-06-29",
+  "admissionDate": "2026-06-30",
   "dischargeDate": "2026-06-30",
-  "leaveDuration": "2",
+  "leaveDuration": "1",
   "doctorName": "مازن بن عبدالجليل بن أحمد الزاير ",
   "jobTitle": "   استشاري  ",
   "issueDate": "2026-06-30",
+  "leaveType": "GSL"
+        },
+     {
+    "leaveCode": "26062922683",
+  "serviceCode": "26062922683",
+  "nationalId": "1131329623",
+  "idNumber": "1131329623",
+  "name": "محمد عبدالغني الجبيلي     ",
+  "admissionDate": "2026-06-29",
+  "dischargeDate": "2026-06-29",
+  "leaveDuration": "1",
+  "doctorName": "مازن بن عبدالجليل بن أحمد الزاير ",
+  "jobTitle": "   استشاري  ",
+  "issueDate": "2026-06-29",
   "leaveType": "GSL"
     }
   ]
