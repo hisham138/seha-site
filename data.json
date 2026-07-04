@@ -4871,6 +4871,20 @@
   "jobTitle": "    أخصائي أول مسالك بولية   ",
   "issueDate": "2026-07-02",
   "leaveType": "GSL"
+    },
+     {
+    "leaveCode": "26071143301",
+  "serviceCode": "26071143301",
+  "nationalId": "1098318791",
+  "idNumber": "1098318791",
+  "name": "علي حامد محمد الشمراني     ",
+  "admissionDate": "2026-07-08",
+  "dischargeDate": "2026-07-11",
+  "leaveDuration": "4",
+  "doctorName": "اغابي فادي يوسف باخوم ",
+  "jobTitle": "    طبيب عام    ",
+  "issueDate": "2026-07-11",
+  "leaveType": "PSL"
     }
   ]
 }
