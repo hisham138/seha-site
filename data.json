@@ -4885,6 +4885,20 @@
   "jobTitle": "    طبيب عام    ",
   "issueDate": "2026-07-11",
   "leaveType": "PSL"
+    },
+     {
+    "leaveCode": "26070542289",
+  "serviceCode": "26070542289",
+  "nationalId": "1110970280",
+  "idNumber": "1110970280",
+  "name": "شذى ساعد الهذلي     ",
+  "admissionDate": "2026-07-05",
+  "dischargeDate": "2026-07-05",
+  "leaveDuration": "1",
+  "doctorName": "هاشم الكناني ",
+  "jobTitle": "    استشاري أمراض الباطنية العامة    ",
+  "issueDate": "2026-07-05",
+  "leaveType": "PSL"
     }
   ]
 }
