@@ -4927,6 +4927,20 @@
   "jobTitle": "    أخصائي الطب الباطني    ",
   "issueDate": "2026-07-06",
   "leaveType": "GSL"
+           },
+     {
+    "leaveCode": "26070961418",
+  "serviceCode": "26070961418",
+  "nationalId": "1099874941",
+  "idNumber": "1099874941",
+  "name": "هند عبد الكريم العنزي     ",
+  "admissionDate": "2026-07-09",
+  "dischargeDate": "2026-07-09",
+  "leaveDuration": "1",
+  "doctorName": "أفنان عادل ",
+  "jobTitle": "    أخصائي جراحة الفم    ",
+  "issueDate": "2026-07-09",
+  "leaveType": "PSL"
     }
   ]
 }
