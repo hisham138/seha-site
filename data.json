@@ -4969,6 +4969,20 @@
   "jobTitle": "    استشاري  باطنية   ",
   "issueDate": "2026-07-06",
   "leaveType": "GSL"
+      },
+     {
+    "leaveCode": "26102089559",
+  "serviceCode": "26102089559",
+  "nationalId": "1132451723",
+  "idNumber": "1132451723",
+  "name": "علي احمد بن عبدالله آل طه     ",
+  "admissionDate": "2026-10-20",
+  "dischargeDate": "2026-10-20",
+  "leaveDuration": "1",
+  "doctorName": "ري عبد ال ",
+  "jobTitle": "    استشاري  باطنية   ",
+  "issueDate": "2026-10-20",
+  "leaveType": "PSL"
     }
   ]
 }
