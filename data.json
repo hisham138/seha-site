@@ -5082,6 +5082,20 @@
       "issueDate": "2026-11-04",
       "leaveType": "GSL"
       },
+    {
+      "leaveCode": "26110823232",
+      "serviceCode": "26110823232",
+      "nationalId": "1124559723",
+      "idNumber": "1124559723",
+      "name": "يعقوب يوسف الثمالي",
+      "admissionDate": "2026-11-08",
+      "dischargeDate": "2026-11-08",
+      "leaveDuration": "1",
+      "doctorName": "تركي الهذلي",
+      "jobTitle": "استشاري باطنية ",
+      "issueDate": "2026-11-08",
+      "leaveType": "GSL" 
+      },
      {
       "leaveCode": "26111572040",
       "serviceCode": "26111572040",
